@@ -1,7 +1,7 @@
 # project4
 ## Simple Manager App
 
-### A sport coach can keep track of his/her matches  (date, place, team)
+### A sport coach can keep track of his/her matches and schedule practices by (date, place, team, opposite team)
 
 ![Wireframe](/images/wireframe.jpg)
 
@@ -12,3 +12,4 @@
 
 - Coach can update past matches with the scores
 - Add players to teams
+- Players will have: name, age, team, position
